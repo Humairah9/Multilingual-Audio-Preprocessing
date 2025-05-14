@@ -6,7 +6,7 @@ I processed 50 Hausa audio files for a speech engine project, converting them to
 - [Objectives](https://github.com/Humairah9/Multilingual-Audio-Preprocessing/blob/main/README.md#objectives)
 - [Overview](https://github.com/Humairah9/Multilingual-Audio-Preprocessing/blob/main/README.md#overview)
 - [Data Source](https://github.com/Humairah9/Multilingual-Audio-Preprocessing/blob/main/README.md#data-source)
-- 
+- [Tools Used](https://github.com/Humairah9/Multilingual-Audio-Preprocessing/blob/main/README.md#tools-used)
 
 ![download (4)](https://github.com/user-attachments/assets/d65b5dce-452c-45f3-8957-fd9074944e14)
 
