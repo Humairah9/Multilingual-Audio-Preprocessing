@@ -12,6 +12,7 @@ I processed 50 Hausa audio files for a speech engine project, converting them to
 - [Visual Insights](https://github.com/Humairah9/Multilingual-Audio-Preprocessing/blob/main/README.md#visual-insights)
 - [Visualizations](https://github.com/Humairah9/Multilingual-Audio-Preprocessing/blob/main/README.md#visualizations)
 - [Conclusion](https://github.com/Humairah9/Multilingual-Audio-Preprocessing/blob/main/README.md#conclusion)
+- [Recommendations](https://github.com/Humairah9/Multilingual-Audio-Preprocessing/blob/main/README.md#recommendations)
 
 
 ![download (4)](https://github.com/user-attachments/assets/d65b5dce-452c-45f3-8957-fd9074944e14)
