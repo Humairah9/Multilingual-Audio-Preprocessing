@@ -1,6 +1,10 @@
 # Multilingual-Audio-Preprocessing
 I processed 50 Hausa audio files for a speech engine project, converting them to .wav, applying noise reduction, and segmenting by pauses. I organized the data and metadata, showcasing my skills in audio preprocessing and multilingual data handling.
 
+# Table of Content 
+- [Introduction](https://github.com/Humairah9/Multilingual-Audio-Preprocessing/blob/main/README.md#introduction)
+- 
+
 ![download (4)](https://github.com/user-attachments/assets/d65b5dce-452c-45f3-8957-fd9074944e14)
 
 # Introduction
